@@ -1,0 +1,13 @@
+/* Fonte family */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@400;514&display=swap');
+
+/* Cores */
+@import './common/variables.scss';
+
+/* Estilizações gerais (comum entre as páginas) */
+@import './common/common.scss';
+
+/* Estilizações específicas */
+@import './pages/home.scss';
+@import './pages/falcon.scss';
+@import './pages/human.scss';
